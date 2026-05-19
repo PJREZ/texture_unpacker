@@ -1,4 +1,5 @@
 TextureUnpacker "Frame" error for plist3 fix
+updated the script to use the modern "Format 3" vocabulary
 ========================
 Usage Example: **python unpack_texture.py NAME.plist NAME.png**
 
