@@ -1,5 +1,6 @@
-TextureUnpacker
+TextureUnpacker "Frame" error for plist3 fix
 ========================
+**python fix_sprites.py your_data.plist your_image.png**
 
 # Overview
 Use this script to unpack **.png** sprites from the sprite atlas (providing a **.plist** or **.json** data file and a **.png** file) packed by [TexturePacker](http://www.codeandweb.com/texturepacker/).
